@@ -2,7 +2,7 @@
 
 ## 原理
 
-![原理](https://meethigher.top/blog/2020/01/07/chat-room/服务端与客户端交互过程图.png)
+![原理](https://meethigher.top/blog/2020/chat-room/服务端与客户端交互过程图.png)
 
 原理上面那个图，描述的很详细了，不多赘述。
 
@@ -23,13 +23,13 @@
 
 * 聊天功能
 
-  ![聊天功能](https://meethigher.top/blog/2020/01/09/chat-room-updraded-version/chat.png)
+  ![聊天功能](https://meethigher.top/blog/2020/chat-room-updraded-version/chat.png)
 
 * 用户退出提示 
 
-![用户退出提示](https://meethigher.top/blog/2020/01/09/chat-room-updraded-version/exit.png )
+![用户退出提示](https://meethigher.top/blog/2020/chat-room-updraded-version/exit.png )
 
 ## 具体过程
 
-[socket聊天室界面版]( https://meethigher.top/blog/2020/01/09/chat-room-updraded-version/ )
+[socket聊天室界面版]( https://meethigher.top/blog/2020/chat-room-updraded-version/ )
 
